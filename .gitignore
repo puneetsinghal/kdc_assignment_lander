@@ -27,3 +27,9 @@
 *.exe
 *.out
 *.app
+
+# Videos
+*.avi
+*.mp4
+*.MP4
+*.MPEG
